@@ -33,12 +33,3 @@ Outfitly adalah aplikasi Android yang membantu kamu mengelola pakaian, membuat k
 - Glide untuk pemrosesan gambar
 - AI Chat via OpenAI / Dialogflow (opsional)
 
-## 📸 Cuplikan Tampilan
-
-> Lihat folder `/screenshots` untuk pratinjau antarmuka aplikasi.
-
-## 🛠 Cara Menjalankan
-
-1. Clone repositori ini  
-   ```bash
-   git cl
