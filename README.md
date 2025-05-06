@@ -40,10 +40,10 @@ Outfitly adalah aplikasi pintar yang membantumu memilih outfit harian dengan mud
 ![Screenshot 2025-05-06 220038](https://github.com/user-attachments/assets/53a44c8a-e455-4d8f-a068-a6d28e80d9a7)
 
 Ini adalah tampilan awal dari aplikasi OUTFITLY. Tampilan ini muncul pertama kali ketika aplikasi dijalankan oleh pengguna. Pada tampilan ini terdapat beberapa elemen utama yang ditampilkan, yaitu:
--Nama Aplikasi
--Logo/Ilustrasi pengguna
--Tagline 
--Versi Aplikasi
+- Nama Aplikasi
+- Logo/Ilustrasi pengguna
+- Tagline 
+- Versi Aplikasi
 Tamplian splash screen ini dirancang minimalis dan informatif, bertujuan untuk memberikan kesan pertama yang profesional kepada pengguna.
 
 ## Home Page
