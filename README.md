@@ -47,4 +47,7 @@ Ini adalah tampilan awal dari aplikasi OUTFITLY. Tampilan ini muncul pertama kal
 Tamplian splash screen ini dirancang minimalis dan informatif, bertujuan untuk memberikan kesan pertama yang profesional kepada pengguna.
 
 ## Home Page
-![image](https://github.com/user-attachments/assets/a6cc9e4e-deec-4d3b-a869-2b8038215ef7)
+
+![Screenshot 2025-05-06 222108](https://github.com/user-attachments/assets/5c09bbb5-f471-47af-b87b-c16237173ab6)
+
+Halaman awal menampilkan name aplikasi, tagline, ilustrasi pengguna, dan dua tombol utama yaitu LOGIN dan REGISTER. Tampilan ini memandu pengguna untuk masuk atau membuat akun secara cepat dan sederhana.
