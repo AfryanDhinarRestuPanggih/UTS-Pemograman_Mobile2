@@ -1,20 +1,44 @@
-📱 Outfitly - Your Personal Outfit Assistant
-Temukan, Kelola, dan Rancang Gaya Terbaikmu!
+# 👗 Outfitly - Your Personal Outfit Assistant
 
-Outfitly adalah aplikasi pintar yang membantumu memilih outfit harian dengan mudah dan menyenangkan. Cocok untuk kamu yang ingin tampil keren setiap hari tanpa repot memilih baju!
+Outfitly adalah aplikasi Android yang membantu kamu mengelola pakaian, membuat kombinasi outfit, dan mendapatkan rekomendasi gaya terbaik menggunakan AI.
 
-🔑 Fitur Unggulan:
-👚 Koleksi Outfit Pribadi
-Upload dan kelola semua pakaianmu dengan foto dan kategori. Buat lemari digitalmu sendiri!
+## 📲 Fitur Utama
 
-🤖 Rekomendasi Outfit dengan AI
-Bingung mau pakai apa? Outfitly akan merekomendasikan kombinasi pakaian terbaik untukmu secara otomatis!
+- 🔐 **Login & Register**  
+  Akses akun dengan aman dan mudah.
 
-🧠 Chat dengan Fashion AI
-Konsultasikan gaya berpakaianmu langsung dengan asisten AI dalam aplikasi!
+- 🧥 **Manajemen Outfit**  
+  Tambahkan pakaian lengkap dengan nama, kategori, warna, dan foto.
 
-📸 Tambah Outfit Baru
-Catat dan simpan pakaian baru dengan mudah melalui fitur upload gambar & detail pakaian.
+- 🧠 **Rekomendasi Outfit AI**  
+  Dapatkan inspirasi gaya dari AI berdasarkan koleksi pakaianmu.
 
-👤 Profil Pengguna
-Kelola akun dan data outfitmu dengan aman dan personal.
+- 💬 **Chat Fashion AI**  
+  Konsultasi langsung dengan asisten AI untuk tips berpakaian.
+
+- 📅 **Outfit Harian**  
+  Lihat dan simpan kombinasi outfit harian dengan satu klik.
+
+- 📤 **Tambah & Edit Pakaian**  
+  Unggah outfit baru dan atur sesuai kebutuhan.
+
+- 👤 **Profil Pengguna**  
+  Kelola informasi akun dan preferensi gaya pribadi.
+
+## 📦 Teknologi yang Digunakan
+
+- Kotlin / Java (Android Studio)
+- Firebase Authentication
+- Firebase Realtime Database / Firestore
+- Glide untuk pemrosesan gambar
+- AI Chat via OpenAI / Dialogflow (opsional)
+
+## 📸 Cuplikan Tampilan
+
+> Lihat folder `/screenshots` untuk pratinjau antarmuka aplikasi.
+
+## 🛠 Cara Menjalankan
+
+1. Clone repositori ini  
+   ```bash
+   git cl
