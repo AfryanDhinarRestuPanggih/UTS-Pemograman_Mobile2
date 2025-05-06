@@ -103,4 +103,6 @@ Pengguna dapat menambahkan pakaian baru dengan mengisi nama, memilih kategori, w
 
 ## Profile
 
+![Screenshot 2025-05-06 223312](https://github.com/user-attachments/assets/95b3aa8a-9ddc-425b-93e4-5d96fa81461e)
+
 Pengguna dapat melihat informasi akun (nama & email), mengedit profil, atau logout dari aplikasi.
