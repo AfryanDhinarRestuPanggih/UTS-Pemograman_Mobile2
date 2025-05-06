@@ -39,10 +39,12 @@ Outfitly adalah aplikasi pintar yang membantumu memilih outfit harian dengan mud
 
 ![Screenshot 2025-05-06 220038](https://github.com/user-attachments/assets/53a44c8a-e455-4d8f-a068-a6d28e80d9a7)
 
-Gambar berikut merupakan tampilan awal (splash screen) dari aplikasi Outfitly. Tampilan ini muncul pertama kali ketika aplikasi dijalankan oleh pengguna.
-Pada tampilan ini, terdapat beberapa elemen utama yang ditampilkan, yaitu:
-•	Nama aplikasi: Outfitly, ditampilkan secara jelas di bagian atas sebagai identitas utama aplikasi.
-•	Logo/Ilustrasi pengguna: Sebuah ilustrasi karakter yang memberi kesan modern dan ramah, menggambarkan asisten pribadi dalam pemilihan outfit.
-•	Tagline: "Your Personal Outfit Assistant", yang menjelaskan secara singkat fungsi utama aplikasi.
-•	Versi aplikasi: Ditampilkan di bagian bawah sebagai penanda bahwa aplikasi ini adalah versi awal (v1.0).
-Tampilan splash screen ini dirancang secara minimalis dan informatif, bertujuan untuk memberikan kesan pertama yang profesional kepada pengguna. Elemen-elemen visual disusun dengan rapi agar pengguna langsung memahami fungsi utama aplikasi tanpa merasa terbebani dengan informasi yang berlebihan.
+Ini adalah tampilan awal dari aplikasi OUTFITLY. Tampilan ini muncul pertama kali ketika aplikasi dijalankan oleh pengguna. Pada tampilan ini terdapat beberapa elemen utama yang ditampilkan, yaitu:
+-Nama Aplikasi
+-Logo/Ilustrasi pengguna
+-Tagline 
+-Versi Aplikasi
+Tamplian splash screen ini dirancang minimalis dan informatif, bertujuan untuk memberikan kesan pertama yang profesional kepada pengguna.
+
+## Home Page
+![image](https://github.com/user-attachments/assets/a6cc9e4e-deec-4d3b-a869-2b8038215ef7)
