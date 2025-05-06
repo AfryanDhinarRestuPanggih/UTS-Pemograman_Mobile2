@@ -1,6 +1,6 @@
 # 👗 Outfitly - Your Personal Outfit Assistant
 
-Outfitly adalah aplikasi Android yang membantu kamu mengelola pakaian, membuat kombinasi outfit, dan mendapatkan rekomendasi gaya terbaik menggunakan AI.
+Outfitly adalah aplikasi pintar yang membantumu memilih outfit harian dengan mudah dan menyenangkan. Cocok untuk kamu yang ingin tampil keren setiap hari tanpa repot memilih baju!
 
 ## 📲 Fitur Utama
 
