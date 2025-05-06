@@ -33,9 +33,9 @@ Outfitly adalah aplikasi pintar yang membantumu memilih outfit harian dengan mud
 - Glide untuk pemrosesan gambar
 - AI Chat via OpenAI / Dialogflow (opsional)
 
-#Penjelasan UI/UX
+# Penjelasan UI/UX
 
-##Splash Screen
+## Splash Screen
 
 ![Screenshot 2025-05-06 220038](https://github.com/user-attachments/assets/53a44c8a-e455-4d8f-a068-a6d28e80d9a7)
 
