@@ -41,6 +41,8 @@ Outfitly adalah aplikasi pintar yang membantumu memilih outfit harian dengan mud
 - AI Chat via OpenAI / Dialogflow (opsional)
 
 # Story Board & Mock Up
+![Screenshot 2025-05-08 120016](https://github.com/user-attachments/assets/7f99e5aa-3752-46ef-b596-c715f0c7982f)
+![Screenshot 2025-05-08 120049](https://github.com/user-attachments/assets/4494c890-53fa-4b63-8ffd-7eb1d0c10afb)
 
 # Penjelasan UI/UX
 
@@ -115,3 +117,6 @@ Pengguna dapat menambahkan pakaian baru dengan mengisi nama, memilih kategori, w
 ![Screenshot 2025-05-06 223312](https://github.com/user-attachments/assets/95b3aa8a-9ddc-425b-93e4-5d96fa81461e)
 
 Pengguna dapat melihat informasi akun (nama & email), mengedit profil, atau logout dari aplikasi.
+
+### Link Trello
+https://trello.com/b/M9VKp3bA/projek-outfitly
