@@ -2,6 +2,13 @@
 
 Outfitly adalah aplikasi pintar yang membantumu memilih outfit harian dengan mudah dan menyenangkan. Cocok untuk kamu yang ingin tampil keren setiap hari tanpa repot memilih baju!
 
+## Nama Kelompok
+| Nama | Nim |
+| -------- | --- |
+|  CHARLOS LOUIS FERNANDO | 312310458  |
+|  AFRYAN DHINAR RESTU PANGGIH | 312310467    |
+|  ANDIKA SETIAWAN | 312310470 |
+
 ## 📲 Fitur Utama
 
 - 🔐 **Login & Register**  
@@ -32,6 +39,8 @@ Outfitly adalah aplikasi pintar yang membantumu memilih outfit harian dengan mud
 - Firebase Realtime Database / Firestore
 - Glide untuk pemrosesan gambar
 - AI Chat via OpenAI / Dialogflow (opsional)
+
+# Story Board & Mock Up
 
 # Penjelasan UI/UX
 
